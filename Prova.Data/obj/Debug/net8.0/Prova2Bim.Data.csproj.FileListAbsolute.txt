@@ -1,0 +1,11 @@
+D:\faculdade\2025_2\web\projeto\Prova2Bim\Prova.Data\bin\Debug\net8.0\Prova2Bim.Data.deps.json
+D:\faculdade\2025_2\web\projeto\Prova2Bim\Prova.Data\bin\Debug\net8.0\Prova2Bim.Data.dll
+D:\faculdade\2025_2\web\projeto\Prova2Bim\Prova.Data\bin\Debug\net8.0\Prova2Bim.Data.pdb
+D:\faculdade\2025_2\web\projeto\Prova2Bim\Prova.Data\obj\Debug\net8.0\Prova2Bim.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\faculdade\2025_2\web\projeto\Prova2Bim\Prova.Data\obj\Debug\net8.0\Prova2Bim.Data.AssemblyInfoInputs.cache
+D:\faculdade\2025_2\web\projeto\Prova2Bim\Prova.Data\obj\Debug\net8.0\Prova2Bim.Data.AssemblyInfo.cs
+D:\faculdade\2025_2\web\projeto\Prova2Bim\Prova.Data\obj\Debug\net8.0\Prova2Bim.Data.csproj.CoreCompileInputs.cache
+D:\faculdade\2025_2\web\projeto\Prova2Bim\Prova.Data\obj\Debug\net8.0\Prova2Bim.Data.dll
+D:\faculdade\2025_2\web\projeto\Prova2Bim\Prova.Data\obj\Debug\net8.0\refint\Prova2Bim.Data.dll
+D:\faculdade\2025_2\web\projeto\Prova2Bim\Prova.Data\obj\Debug\net8.0\Prova2Bim.Data.pdb
+D:\faculdade\2025_2\web\projeto\Prova2Bim\Prova.Data\obj\Debug\net8.0\ref\Prova2Bim.Data.dll
